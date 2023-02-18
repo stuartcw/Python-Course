@@ -6,3 +6,5 @@ def add_numbers(a,b):
 def test_add_numbers():
   if add_numbers(0,1) == 1:
     print("Passed!")
+   
+test_add_numbers()
